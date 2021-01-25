@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161364374181",
+    "project_id": "mobileotp-33c38",
+    "storage_bucket": "mobileotp-33c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161364374181:android:adbb2cea5a22af6102934c",
+        "android_client_info": {
+          "package_name": "com.saddar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161364374181-5l9clojaj6tkm5qmhoia0u1e0lh6kuq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6jPQNikCS578rewkK0etfOEpqltQGPmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161364374181-5l9clojaj6tkm5qmhoia0u1e0lh6kuq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
